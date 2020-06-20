@@ -3,3 +3,4 @@ voila-material
 numpy
 pandas
 plotly
+pygments >=2.4.1
