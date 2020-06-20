@@ -2,4 +2,4 @@ numpy
 pandas
 plotly
 voila
-jupyter_server < 0.2.0
+tornado < 6
