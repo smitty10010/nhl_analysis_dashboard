@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser eda.ipynb
+web: voila --port=$PORT --no-browser /eda.ipynb
