@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly.figure_factory
+plotly.graph_objects
+ipywidgets
+IPython.display
