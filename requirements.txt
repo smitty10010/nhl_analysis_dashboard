@@ -1,6 +1,6 @@
-alabaster=
+alabaster
 anaconda-client
-anaconda-navigator=
+anaconda-navigator
 anaconda-project
 applaunchservices
 appnope
