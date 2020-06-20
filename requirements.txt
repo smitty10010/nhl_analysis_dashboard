@@ -1,4 +1,5 @@
+voila
+voila-material
 numpy
 pandas
 plotly
-voila==0.1.6
