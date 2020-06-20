@@ -1,6 +1,4 @@
 alabaster
-anaconda-client
-anaconda-project
 applaunchservices
 appnope
 appscript
