@@ -4,7 +4,7 @@
 
 This is an area to experiment with various Jupyter Notebook dashboard configurations.
 
-This data was pulled from the NHL's [API](https://github.com/erunion/sport-api-specifications/tree/master/nhl) and moved into a SQLite database for easy access during the data exploration process. The below resources were used in gathering this data and processing it.
+This data was pulled from the NHL's [API](https://github.com/erunion/sport-api-specifications/tree/master/nhl) and moved into a SQLite database (csv file for this example) for easy access during the data exploration process. The below resources were used in gathering this data and processing it.
 
 ### Resources
 - [NHL Stats API Documentation] (https://gitlab.com/dword4/nhlapi) maintained by Drew Hynes
