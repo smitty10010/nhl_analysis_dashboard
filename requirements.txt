@@ -1,6 +1,5 @@
 numpy
 pandas
-plotly.figure_factory
-plotly.graph_objects
+plotly
 ipywidgets
 IPython.display
