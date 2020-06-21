@@ -2,4 +2,4 @@ voila
 plotly
 numpy
 pandas
-jupyter_server
+jupyter-server<0.2.0
