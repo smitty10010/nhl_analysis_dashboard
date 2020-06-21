@@ -2,3 +2,4 @@ voila
 plotly
 numpy
 pandas
+jupyter_server
